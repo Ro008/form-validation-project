@@ -1,2 +1,2 @@
 # form-validation-project
-Regular Expression practice
+Regular Expressions practice
